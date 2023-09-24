@@ -1,0 +1,14 @@
+
+.custom-heading{
+    font-family: 'Pacifico', cursive;
+    font-size:75px;
+    color:rgba(255,255,255,0.9);
+    text-shadow: 5px 1px 0 rgba(255,0,0,0.3);
+}
+.maintxt {
+    width:auto; /* Set a specific width */
+    height: 35rem; /* Set a specific height */
+    background-image: url('https://images.unsplash.com/photo-1477901492169-d59e6428fc90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+    object-fit: cover;
+}
+

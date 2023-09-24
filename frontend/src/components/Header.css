@@ -1,0 +1,30 @@
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+.input-box{
+    width:35rem;
+    
+}
+.custom-border{
+    
+    border-bottom-left-radius:10px !important;
+}
+.custom-border-button{
+    border-top-right-radius: 10px !important;
+    
+}
+.custom-backgroundColor{
+    background-color: rgb(255, 153, 0);
+}
+div a:hover{
+    
+    background-color: blue !important;
+}
+@media  only screen and (max-width:600px){
+    .input-box{
+        width:auto !important;
+        background-color: brown;
+    }
+}
+    
